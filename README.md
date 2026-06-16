@@ -6,6 +6,12 @@ This is a simple hello world program made in Rust. I originally got interested i
 
 ### Installation Requirements
 ```
+git clone https://github.com/CaseyWachiuri/Guessing-Game.git
+# run:
+cd /*where directory is located*/
+cargo build
+cargo run
+cargo build --release # Compile with optimizations
 ```
 
 ## Technologies used
